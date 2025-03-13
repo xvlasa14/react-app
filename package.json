@@ -1,0 +1,26 @@
+{
+    "name": "starter-monorepo",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "common": "pnpm --filter @starter/common",
+        "demo": "pnpm --filter @starter/demo"
+    },
+    "private": true,
+    "keywords": [],
+    "author": "",
+    "devDependencies": {
+        "@types/node": "^20.14.12",
+        "@typescript-eslint/eslint-plugin": "^7.17.0",
+        "@typescript-eslint/parser": "^7.17.0",
+        "eslint": "^8.57.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-import": "^2.29.1",
+        "eslint-plugin-jsx-a11y": "^6.9.0",
+        "eslint-plugin-react-hooks": "^4.6.2",
+        "eslint-plugin-simple-import-sort": "^10.0.0",
+        "eslint-plugin-unused-imports": "^3.2.0",
+        "prettier": "^3.3.3",
+        "typescript": "^5.5.4"
+    }
+}
