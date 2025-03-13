@@ -1,6 +1,6 @@
-# Assignment
-
-## Project setup
+# DEMO APP ROJECT FOR JOB INTERVIEW
+=========================================
+### Project setup
 
 **Please fork the project repository before starting your work.**
 You'll be working within a `pnpm` monorepo on a `demo` application.
